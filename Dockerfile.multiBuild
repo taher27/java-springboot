@@ -1,0 +1,25 @@
+FROM maven:3.8.4-openjdk-17 AS build
+
+# Set the working directory
+WORKDIR /app
+
+# Copy the Maven project file into the container
+COPY pom.xml .
+
+# Download the project dependencies
+RUN mvn dependency:go-offline
+
+# Copy the application source code into the container
+COPY src ./src
+
+# Build the application
+RUN mvn package -DskipTests
+
+FROM openjdk:17-alpine
+COPY --from=build /app/target/*.jar products.jar
+EXPOSE 8080
+
+# ARG JAR_FILE=target/*.jar
+# COPY ${JAR_FILE} products.jar
+
+ENTRYPOINT ["java","-jar","/products.jar"]
