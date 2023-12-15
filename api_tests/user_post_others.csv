@@ -1,0 +1,11 @@
+id,username,firstName,lastName,email,password,phone,userStatus,statusCode
+1,johnDoe,John,Doe,johndoe@gmail.com,pass123,1234567890,Active,200
+2,janeDoe,Jane,Doe,janedoe@gmail.com,pass123,0987654321,Active,200
+3,marySmith,Mary,Smith,marysmith@gmail.com,pass123,1122334455,Inactive,400
+4,jamesBrown,James,Brown,jamesbrown@gmail.com,pass123,2233445566,Active,200
+5,williamJones,William,Jones,williamjones@gmail.com,pass123,3344556677,Inactive,400
+6,davidMiller,David,Miller,davidmiller@gmail.com,pass123,4455667788,Active,200
+7,charlesWhite,Charles,White,charleswhite@gmail.com,pass123,5566778899,Inactive,400
+8,josephHarris,Joseph,Harris,josephharris@gmail.com,pass123,6677889900,Active,200
+9,thomasMartin,Thomas,Martin,thomasmartin@gmail.com,pass123,7788990011,Inactive,400
+10,christopherThompson,Christopher,Thompson,christopherthompson@gmail.com,pass123,8899001122,Active,200

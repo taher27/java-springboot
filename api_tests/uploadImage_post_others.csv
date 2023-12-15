@@ -1,0 +1,11 @@
+petId,additionalMetadata,file,statusCode
+12345,Black Labrador,labrador_photo.jpg,200
+67890,,bulldog_photo.jpg,404
+11223,Golden Retriever,goldenretriever_photo.jpg,200
+33445,,,
+55678,German Shepherd,germanshepherd_photo.jpg,500
+78901,Pug,pug_photo.jpg,200
+99112,,,
+22334,Bulldog,bulldog_photo.jpg,200
+44556,Labrador,labrador_photo.jpg,404
+66789,Golden Retriever,,

@@ -1,0 +1,11 @@
+id,category,name,photoUrls,tags,status
+1,Music,John Doe,http://example.com/photo1.jpg,rock,pending
+2,Sports,Jane Smith,http://example.com/photo2.jpg,football,active
+3,Science,Bob Johnson,http://example.com/photo3.jpg,astronomy,active
+4,Art,Alice Williams,http://example.com/photo4.jpg,painting,pending
+5,Tech,Charlie Brown,http://example.com/photo5.jpg,coding,active
+6,Education,Susan Davis,http://example.com/photo6.jpg,math,active
+7,Health,James Wilson,http://example.com/photo7.jpg,fitness,pending
+8,Travel,Patricia Miller,http://example.com/photo8.jpg,adventure,active
+9,Cooking,Robert Moore,http://example.com/photo9.jpg,gourmet,pending
+10,Fashion,Linda Taylor,http://example.com/photo10.jpg,designer,active
