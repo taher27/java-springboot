@@ -1,0 +1,11 @@
+id,category,name,photoUrls,tags,status,statusCode
+1,education,John Doe,https://photos.com/johndoe,programming,active,200
+2,finance,Jane Smith,https://photos.com/janesmith,accounting,inactive,400
+3,healthcare,Robert Brown,https://photos.com/robertbrown,medicine,active,200
+4,technology,Emma Davis,https://photos.com/emmadavis,coding,inactive,400
+5,marketing,Oliver Wilson,https://photos.com/oliverwilson,seo,active,200
+6,education,Isabella Johnson,https://photos.com/isabellajohnson,teaching,inactive,400
+7,finance,George Taylor,https://photos.com/georgetaylor,investment,active,200
+8,healthcare,Charlotte Miller,https://photos.com/charlottemiller,nursing,inactive,400
+9,technology,Michael Moore,https://photos.com/michaelmoore,ai,active,200
+10,marketing,Emily Clark,https://photos.com/emilyclark,smm,inactive,400

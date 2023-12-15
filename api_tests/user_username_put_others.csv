@@ -1,0 +1,11 @@
+username,id,firstName,lastName,email,password,phone,userStatus,statusCode
+user1,001,John,Doe,johndoe@example.com,pass123,1234567890,active,200
+user2,002,Jane,Doe,janedoe@example.com,pass456,0987654321,inactive,400
+user3,003,James,Bond,jamesbond@example.com,007pass,007007007,active,200
+user4,004,Mary,Jane,maryjane@example.com,mjpass,4567891230,inactive,400
+user5,005,Peter,Parker,peterparker@example.com,spiderpass,7891234560,active,200
+user6,006,Tony,Stark,tonystark@example.com,ironpass,3216549870,inactive,400
+user7,007,Steve,Rogers,steve@example.com,captpass,9876543210,active,200
+user8,008,Bruce,Wayne,brucewayne@example.com,batpass,6543219870,inactive,400
+user9,009,Clark,Kent,clarkkent@example.com,superpass,7894561230,active,200
+user10,010,Diana,Prince,dianaprince@example.com,wonderpass,1237894560,inactive,400

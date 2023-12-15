@@ -1,0 +1,11 @@
+id,category,name,photoUrls,tags,status,statusCode
+1,Clothing,John Doe,http://example.com/photo1.jpg,summer,cancelled,200
+2,Electronics,Jane Doe,http://example.com/photo2.jpg,winter,active,201
+3,Books,Robert Smith,http://example.com/photo3.jpg,autumn,active,202
+4,Furniture,Emily Johnson,http://example.com/photo4.jpg,spring,cancelled,203
+5,Toys,Michael Brown,http://example.com/photo5.jpg,summer,active,204
+6,Games,Emma Davis,http://example.com/photo6.jpg,winter,cancelled,205
+7,Appliances,Oliver Taylor,http://example.com/photo7.jpg,autumn,active,206
+8,Sports,Liam Wilson,http://example.com/photo8.jpg,spring,cancelled,207
+9,Jewelry,Sophia Thomas,http://example.com/photo9.jpg,summer,active,208
+10,Gardening,Noah Jackson,http://example.com/photo10.jpg,winter,cancelled,209

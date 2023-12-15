@@ -1,0 +1,11 @@
+id,username,firstName,lastName,email,password,phone,userStatus,statusCode
+1,johnDoe,John,Doe,johndoe@gmail.com,pass123,1234567890,Active,200
+2,janeDoe,Jane,Doe,janedoe@gmail.com,pass1234,0987654321,Inactive,404
+3,admin,,Admin,admin@gmail.com,admin123,1112223334,Active,200
+4,userOne,User,One,userone@gmail.com,pass111,2223334445,Active,200
+5,userTwo,User,Two,usertwo@gmail.com,pass222,3334445556,Inactive,404
+6,userThree,User,Three,userthree@gmail.com,pass333,4445556667,Active,200
+7,userFour,User,Four,userfour@gmail.com,pass444,5556667778,Inactive,404
+8,userFive,User,Five,userfive@gmail.com,pass555,6667778889,Active,200
+9,userSix,User,Six,usersix@gmail.com,pass666,7778889990,Inactive,404
+10,userSeven,User,Seven,userseven@gmail.com,pass777,8889990001,Active,200

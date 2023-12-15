@@ -1,0 +1,11 @@
+id,category_id,category_name,name,photoUrls,tags_id,tags_name,status
+1,10,Dogs,Bruno,https://photos.com/bruno,100,Playful,available
+2,11,Cats,Whiskers,https://photos.com/whiskers,101,Lazy,sold
+3,10,Dogs,Rex,https://photos.com/rex,102,Aggressive,available
+4,12,Birds,Tweety,https://photos.com/tweety,103,Friendly,available
+5,13,Fish,Goldie,https://photos.com/goldie,104,Colorful,sold
+6,10,Dogs,Max,https://photos.com/max,105,Active,available
+7,11,Cats,Snowball,https://photos.com/snowball,106,Fluffy,available
+8,12,Birds,Blue,https://photos.com/blue,107,Exotic,sold
+9,13,Fish,Flash,https://photos.com/flash,108,Speedy,available
+10,10,Dogs,Rover,https://photos.com/rover,109,Loyal,available

@@ -1,0 +1,11 @@
+petId,name,status,statusCode
+1234,Fluffy,Available,200
+2345,Max,Sold,404
+3456,Bella,Available,200
+4567,Lucy,Sold,404
+5678,Charlie,Available,200
+6789,Cooper,Sold,404
+7890,Lola,Available,200
+8901,Rocky,Sold,404
+9012,Oliver,Available,200
+0123,Milo,Sold,404

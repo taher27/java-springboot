@@ -1,0 +1,11 @@
+petId,name,status,statusCode
+001,Fluffy,Available,100
+002,Max,Adopted,200
+003,Bella,Available,100
+004,Charlie,Adopted,200
+005,Lucy,Deceased,400
+006,Luna,Adopted,200
+007,Max,Available,100
+008,Fluffy,Adopted,200
+009,Sophie,Deceased,400
+010,Daisy,Available,100

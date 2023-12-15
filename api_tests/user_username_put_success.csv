@@ -1,0 +1,11 @@
+username,id,firstName,lastName,email,password,phone,userStatus,statusCode
+johnDoe1,1,John,Doe,johnDoe1@example.com,secret123,1234567890,Active,200
+janeDoe2,2,Jane,Doe,janeDoe2@example.com,secret456,2345678901,Inactive,400
+mikeSmith3,3,Mike,Smith,mikeSmith3@example.com,secret789,3456789012,Active,200
+annaJohnson4,4,Anna,Johnson,annaJohnson4@example.com,secret012,4567890123,Active,200
+markWilliams5,5,Mark,Williams,markWilliams5@example.com,secret345,5678901234,Inactive,400
+emmaTaylor6,6,Emma,Taylor,emmaTaylor6@example.com,secret678,6789012345,Active,200
+jamesBrown7,7,James,Brown,jamesBrown7@example.com,secret901,7890123456,Inactive,400
+sophiaDavis8,8,Sophia,Davis,sophiaDavis8@example.com,secret234,8901234567,Active,200
+liamMiller9,9,Liam,Miller,liamMiller9@example.com,secret567,9012345678,Inactive,400
+oliviaWilson10,10,Olivia,Wilson,oliviaWilson10@example.com,secret890,0123456789,Active,200

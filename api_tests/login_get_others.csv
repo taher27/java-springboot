@@ -1,0 +1,11 @@
+username,password,statusCode
+john123,pass123,200
+mike456,pass456,200
+alice789,pass789,200
+bob321,,400
+charlie654,pass654,200
+david987,pass987,200
+erin123,pass123,400
+frank456,pass456,200
+grace789,pass789,200
+harry321,,400
