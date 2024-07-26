@@ -1,0 +1,11 @@
+id^|^category.id^|^category.name^|^name^|^photoUrls^|^tags.id^|^tags.name^|^status
+1^|^101^|^Dogs^|^Bobby^|^https://photos.com/dogs/bobby1.jpg^|^201^|^friendly^|^available
+2^|^102^|^Cats^|^Whiskers^|^https://photos.com/cats/whiskers1.jpg^|^202^|^lazy^|^pending
+3^|^101^|^Dogs^|^Rex^|^https://photos.com/dogs/rex1.jpg^|^203^|^energetic^|^sold
+4^|^103^|^Birds^|^Tweety^|^https://photos.com/birds/tweety1.jpg^|^204^|^loud^|^available
+5^|^104^|^Fish^|^Goldie^|^https://photos.com/fish/goldie1.jpg^|^205^|^quiet^|^pending
+6^|^101^|^Dogs^|^Max^|^https://photos.com/dogs/max1.jpg^|^206^|^playful^|^sold
+7^|^102^|^Cats^|^Garfield^|^https://photos.com/cats/garfield1.jpg^|^207^|^lazy^|^available
+8^|^103^|^Birds^|^Polly^|^https://photos.com/birds/polly1.jpg^|^208^|^talkative^|^pending
+9^|^101^|^Dogs^|^Lassie^|^https://photos.com/dogs/lassie1.jpg^|^209^|^loyal^|^sold
+10^|^102^|^Cats^|^Tom^|^https://photos.com/cats/tom1.jpg^|^210^|^sly^|^available

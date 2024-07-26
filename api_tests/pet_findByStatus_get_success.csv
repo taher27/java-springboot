@@ -1,0 +1,11 @@
+id^|^category.id^|^category.name^|^name^|^photoUrls^|^tags.id^|^tags.name^|^status
+1^|^10^|^Canine^|^Fido^|^www.photo1.com^|^100^|^friendly^|^available
+2^|^20^|^Feline^|^Whiskers^|^www.photo2.com^|^200^|^lazy^|^pending
+3^|^10^|^Canine^|^Rex^|^www.photo3.com^|^300^|^aggressive^|^sold
+4^|^30^|^Bird^|^Tweety^|^www.photo4.com^|^400^|^noisy^|^available
+5^|^40^|^Reptile^|^Slither^|^www.photo5.com^|^500^|^quiet^|^pending
+6^|^50^|^Rodent^|^Squeaky^|^www.photo6.com^|^600^|^fast^|^sold
+7^|^60^|^Fish^|^Bubbles^|^www.photo7.com^|^700^|^colorful^|^available
+8^|^70^|^Amphibian^|^Hoppy^|^www.photo8.com^|^800^|^jumpy^|^pending
+9^|^80^|^Insect^|^Buzz^|^www.photo9.com^|^900^|^small^|^sold
+10^|^90^|^Mammal^|^Furry^|^www.photo10.com^|^1000^|^soft^|^available
