@@ -1,0 +1,11 @@
+petId^|^additionalMetadata^|^file
+12345^|^Species:Dog, Age:6, Color:Brown^|^dog_photo_1.jpg
+67890^|^Species:Cat, Age:4, Color:Black^|^cat_photo_2.jpg
+11123^|^Species:Bird, Age:3, Color:Yellow^|^bird_photo_3.jpg
+14152^|^Species:Dog, Age:5, Color:White^|^dog_photo_4.jpg
+16172^|^Species:Cat, Age:3, Color:White^|^cat_photo_5.jpg
+19192^|^Species:Dog, Age:4, Color:Black^|^dog_photo_6.jpg
+20212^|^Species:Bird, Age:2, Color:Green^|^bird_photo_7.jpg
+22232^|^Species:Dog, Age:1, Color:Brown^|^dog_photo_8.jpg
+24252^|^Species:Cat, Age:7, Color:Grey^|^cat_photo_9.jpg
+26272^|^Species:Dog, Age:6, Color:Black^|^dog_photo_10.jpg

@@ -1,0 +1,11 @@
+petId^|^id^|^category.id^|^category.name^|^name^|^photoUrls^|^tags^|^status
+1^|^1001^|^10^|^Dogs^|^Bulldog^|^https://photos.com/dog1.jpg^|^Friendly,Playful^|^Available
+2^|^1002^|^10^|^Dogs^|^Labrador^|^https://photos.com/dog2.jpg^|^Active,Intelligent^|^Available
+3^|^1003^|^10^|^Dogs^|^Poodle^|^https://photos.com/dog3.jpg^|^Intelligent,Active^|^Available
+4^|^1004^|^20^|^Cats^|^Persian^|^https://photos.com/cat1.jpg^|^Loving,Playful^|^Available
+5^|^1005^|^20^|^Cats^|^Siamese^|^https://photos.com/cat2.jpg^|^Active,Friendly^|^Available
+6^|^1006^|^20^|^Cats^|^Bengal^|^https://photos.com/cat3.jpg^|^Active,Intelligent^|^Available
+7^|^1007^|^30^|^Birds^|^Parrot^|^https://photos.com/bird1.jpg^|^Intelligent,Friendly^|^Available
+8^|^1008^|^30^|^Birds^|^Canary^|^https://photos.com/bird2.jpg^|^Friendly,Active^|^Available
+9^|^1009^|^30^|^Birds^|^Sparrow^|^https://photos.com/bird3.jpg^|^Friendly,Active^|^Available
+10^|^1010^|^40^|^Fish^|^Goldfish^|^https://photos.com/fish1.jpg^|^Friendly,Active^|^Available

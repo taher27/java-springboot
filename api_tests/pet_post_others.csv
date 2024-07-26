@@ -1,0 +1,11 @@
+id^|^name^|^photoUrls^|^tags^|^status
+1^|^doggie^|^http://example.com/photo1.jpg^|^tag1,tag2^|^available
+2^|^kitty^|^http://example.com/photo2.jpg,http://example.com/photo3.jpg^|^tag3,tag4^|^sold
+3^|^birdie^|^http://example.com/photo4.jpg^|^tag5,tag6^|^pending
+4^|^hamster^|^http://example.com/photo5.jpg,http://example.com/photo6.jpg^|^tag7,tag8^|^available
+5^|^fish^|^http://example.com/photo7.jpg^|^tag9,tag10^|^sold
+6^|^reptile^|^http://example.com/photo8.jpg,http://example.com/photo9.jpg^|^tag11,tag12^|^pending
+7^|^rabbit^|^http://example.com/photo10.jpg^|^tag13,tag14^|^available
+8^|^guinea pig^|^http://example.com/photo11.jpg,http://example.com/photo12.jpg^|^tag15,tag16^|^sold
+9^|^ferret^|^http://example.com/photo13.jpg^|^tag17,tag18^|^pending
+10^|^turtle^|^http://example.com/photo14.jpg,http://example.com/photo15.jpg^|^tag19,tag20^|^available
